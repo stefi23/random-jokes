@@ -15,15 +15,15 @@ h1 {
   text-align: center;
 }
 
-h1::before {
+/* h1::before {
   content: "";
   position: absolute;
   height: 6px;
-  width: 52%;
+  width: 100%;
   background-color: white;
   bottom: 4px;
   z-index: -1;
-}
+} */
 
 button {
   margin-bottom: 20px;
